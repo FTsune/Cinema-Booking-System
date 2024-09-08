@@ -22,13 +22,13 @@ The Cinema Booking System is a desktop application developed in VB.NET. It allow
 ## Screenshots
 
 ### Login Page
-<img src="screenshots/login_page.jpg" alt="Login Page" width="600"/>
+<img src="screenshots/login_page.jpg" alt="Login Page" width="500"/>
 
 ### Movie Editing Page (ADMIN)
-<img src="screenshots/edit movie.jpg" alt="Movie Editing Page" width="600"/>
+<img src="screenshots/edit_movie.jpg" alt="Movie Editing Page" width="400"/>
 
 ### Sample Receipt
-<img src="screenshots/sample receipt.jpg" alt="Receipt" width="600"/>
+<img src="screenshots/sample receipt.jpg" alt="Receipt" width="200"/>
 
 ## Technologies Used
 
