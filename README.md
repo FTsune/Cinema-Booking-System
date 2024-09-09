@@ -2,7 +2,7 @@
 
 ## Project Description
 
-The Cinema Booking System is a desktop application developed in VB.NET. It allows users to browse movies, select showtimes, choose seats, and make bookings. The system is designed to provide a seamless and user-friendly experience for movie-goers.
+The Cinema Booking System is a desktop application developed in VB.NET. It allows users to browse movies and make bookings. The system is designed to provide a seamless and user-friendly experience for movie-goers.
 
 ## Table of Contents
 
