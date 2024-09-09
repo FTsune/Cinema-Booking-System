@@ -15,7 +15,6 @@ The Cinema Booking System is a desktop application developed in VB.NET. It allow
 
 - **User Authentication**: Login and registration system.
 - **Movie Listings**: Browse current and upcoming movies.
-- **Showtime Selection**: View available showtimes for selected movies.
 - **Booking Confirmation**: Confirm bookings with details and ticket/receipt generator.
 - **Admin Panel**: Manage movies, showtimes, and users.
 
